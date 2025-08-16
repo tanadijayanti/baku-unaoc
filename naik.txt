@@ -11,13 +11,13 @@
   <meta name="og:title" content="SLOT4D : Pusat Permainan Slot Gacor 4D Server Thailand & Mpo Slot Bet 200 Garansi Kekalahan No #1 Saat Ini" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="SLOT4D merupakan pusat permainan slot gacor 4D server Thailand dengan pilihan game MPO Slot bet 200 terbaik di tahun 2025. Nikmati bonus menarik dan siap dimanjakan dengan garansi kekalahan 100% untuk pengalaman bermain yang lebih menguntungkan." />
-  <meta name="og:image" content="https://baku.unaoc.org/wp-content/slot4d-gacor.jpg" />
+  <meta name="og:image" content="https://res.cloudinary.com/dt5ndbet6/image/upload/w_330,h_330,c_fill,f_auto/slotgacor_azsq80" />
   <link rel="stylesheet" href="//g.lazcdn.com/g/lzdmod/im/5.0.103/index.css" /><link rel="stylesheet" href="https://g.lazcdn.com/g/lzd-cs/chat/2.5.0/alichat.css" desktopcss="true" /><link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
-  <link rel="shortcut icon" href="https://www.citypng.com/public/uploads/preview/google-logo-icon-gsuite-hd-701751694791470gzbayltphh.png" />
+  <link rel="shortcut icon" href="https://res.cloudinary.com/dt5ndbet6/image/upload/w_50,h_50,c_fill,f_auto/bintang-pinky-boy_fjjtq9" />
   <link rel="canonical" href="https://baku.unaoc.org/" />
   <link rel="amphtml" href="https://baku-unaoc.pages.dev/" />
   <!-- start preload -->
-  <link rel="preload" href="https://baku.unaoc.org/wp-content/slot4d-gacor.jpg" as="image" />
+  <link rel="preload" href="https://res.cloudinary.com/dt5ndbet6/image/upload/w_330,h_330,c_fill,f_auto/slotgacor_azsq80" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//acs-m.lazada.co.id" />
   <link rel="preconnect dns-prefetch" href="//laz-g-cdn.alicdn.com" />
@@ -1096,7 +1096,7 @@
             <div class="lzd-logo-bar">
               <div class="logo-bar-content header-content">
                 <div class="lzd-logo-content"><a href="https://baku.unaoc.org/" data-spm="dhome"><img
-                      src="https://res.cloudinary.com/dhyrprrc1/image/upload/v1737800564/561598349_inrz26.png" alt="Logo slot4d"></a></div>
+                      src="https://res.cloudinary.com/dt5ndbet6/image/upload/w_127,h_40,c_fill,f_auto/sgc1_kgacnm" alt="Logo slot4d"></a></div>
                 <div class="lzd-nav-search " data-spm="search"><div class="layout-search-box--qK-K"><form action="//www.lazada.co.id/catalog/" method="GET" autocomplete="off"><div class="search-box--2I2a"><div class="search-box__bar--29h6"><input type="search" id="q" name="q" placeholder="Cari di Lazada" class="search-box__input--O34g" tabindex="1" value="" /><input type="hidden" name="_keyori" value="ss" /><input type="hidden" name="from" value="input" /><input type="hidden" name="spm" value="..search.go." /></div><div class="search-box__search--2fC5"><a href="//www.lazada.co.id/catalog/?q=" class="search-box__button--1oH7" tabindex="2" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go" referrerpolicy="origin">Cari</a></div></div></form><div class="hotBorder--3N6k"></div></div></div>
                 <div class="lzd-nav-menu-redmart" style="display: none;">
                   <div class="mui-zebra-module" id="J_icms-5000527-1511531232618"
@@ -3524,7 +3524,7 @@
               <div class="gallery-preview-panel">
                 <div class="gallery-preview-panel__content"><img
                     class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT4D : Pusat Permainan Slot Gacor 4D Server Thailand & Mpo Slot Bet 200 Garansi Kekalahan No #1 Saat Ini"
-                    src="https://baku.unaoc.org/wp-content/slot4d-gacor.jpg" /></div>
+                    src="https://res.cloudinary.com/dt5ndbet6/image/upload/w_330,h_330,c_fill,f_auto/slotgacor_azsq80" /></div>
               </div>
               <div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider">
                 <div class="next-slick-inner next-slick-initialized" draggable="true">
